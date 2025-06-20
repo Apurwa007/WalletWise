@@ -1,0 +1,179 @@
+[
+  {
+    "bank": "Federal Bank",
+    "cardTypes": [
+      "Credit Card",
+      "Debit Card"
+    ],
+    "offers": [
+      {
+        "discountPercent": 10,
+        "minSpend": 5000,
+        "maxDiscountCredit": 750,
+        "maxDiscountDebit": 1000,
+        "extra": "Flat \u20b92000 off on spends \u2265 \u20b930,000",
+        "categories": [
+          "Mobiles",
+          "Appliances",
+          "TV",
+          "Electronics",
+          "Home Kitchen",
+          "Furniture"
+        ],
+        "period": "20 Jan 2025 \u2013 26 Jan 2025"
+      }
+    ]
+  },
+  {
+    "bank": "SBI Card",
+    "cardTypes": [
+      "All SBI Credit Cards (ex corporate, cashback, Paytm)"
+    ],
+    "offers": [
+      {
+        "period": "9\u201317 Mar 2025",
+        "discountPercent": 10,
+        "minSpend": 5000,
+        "maxDiscountEMI": 1000,
+        "bonus": [
+          {
+            "spend": 24990,
+            "extra": 500
+          },
+          {
+            "spend": 34990,
+            "extra": 750
+          },
+          {
+            "spend": 49990,
+            "extra": 1000
+          }
+        ],
+        "cap": 5250,
+        "applicableOn": [
+          "EMI"
+        ]
+      }
+    ]
+  },
+  {
+    "bank": "ICICI Bank",
+    "cardTypes": [
+      "Debit Card EMI",
+      "Amazon Pay ICICI CC"
+    ],
+    "offers": [
+      {
+        "card": "Debit Card EMI",
+        "minSpend": 10000,
+        "maxDiscount": 1500,
+        "applicableOn": [
+          "EMI"
+        ],
+        "period": "2025 sale season"
+      },
+      {
+        "card": "Amazon Pay ICICI CC",
+        "benefits": "5% cashback for Prime / 3% non-Prime",
+        "extra": "100% cashback up to \u20b9200 (Prime) or \u20b9150",
+        "period": "Ongoing \u2013 Jun 2025"
+      }
+    ]
+  },
+  {
+    "bank": "Bandhan Bank",
+    "cardTypes": [
+      "Debit Card"
+    ],
+    "offers": [
+      {
+        "discountPercent": 10,
+        "minSpend": 2000,
+        "maxDiscount": 750,
+        "period": "11\u201320 Mar 2024"
+      }
+    ]
+  },
+  {
+    "bank": "Axis Bank",
+    "cardTypes": [
+      "Credit Card",
+      "Credit Card EMI"
+    ],
+    "offers": [
+      {
+        "discountPercent": 7.5,
+        "minSpend": 7500,
+        "maxDiscountCC": 750,
+        "maxDiscountEMI": 1000,
+        "applicableOn": [
+          "All categories"
+        ],
+        "period": "3\u201317 Jun 2025"
+      }
+    ]
+  },
+  {
+    "bank": "HDFC Bank",
+    "cardTypes": [
+      "Credit Card"
+    ],
+    "offers": [
+      {
+        "offerType": "Unconditional Amazon Voucher",
+        "details": "Earn Amazon vouchers on Amazon/Flipkart/Bigbasket/Swiggy/Zomato spends",
+        "period": "Valid through Jul 2025"
+      },
+      {
+        "card": "HDFC Millennia",
+        "cashbackPercentAmazon": 5,
+        "cashbackPercentGiftCard": 1,
+        "period": "Ongoing \u2013 Jun 2025"
+      }
+    ]
+  },
+  {
+    "bank": "Kotak Mahindra Bank",
+    "cardTypes": [
+      "Credit Card EMI",
+      "Debit Card EMI",
+      "Corporate Credit Card"
+    ],
+    "offers": [
+      {
+        "card": "Debit Card EMI (Cardless)",
+        "minSpend": 5000,
+        "applicableOn": [
+          "EMI"
+        ],
+        "period": "Ongoing",
+        "details": "Convert purchases into EMI 3/6/9/12 months for pre-approved customers"
+      }
+    ]
+  },
+  {
+    "bank": "American Express",
+    "cardTypes": [
+      "Gold Card",
+      "Platinum Travel Card"
+    ],
+    "offers": [
+      {
+        "card": "Gold Card",
+        "offerType": "Dining & Travel Rewards",
+        "details": "1,000 bonus MR points on 6\u00d7\u20b91,000+ spends/month; 5X on dining/travel/online; redeem vouchers incl. Amazon \u20b98k",
+        "period": "Valid till\u202f30\u202fJune\u202f2025"
+      },
+      {
+        "card": "Platinum Travel Card",
+        "offerType": "Dining / Travel / Lounge / Concierge",
+        "discountPercent": 20,
+        "applicableOn": [
+          "Dining"
+        ],
+        "details": "Up to 20% off at select restaurants; lounge access, fuel waiver, gift bundles, travel wallet",
+        "period": "Ongoing"
+      }
+    ]
+  }
+]
